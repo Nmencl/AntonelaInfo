@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Zadatak iz informatike</title>
+<title> Zadatak iz informatike je bio težak</title>
 </head>
 <body>
 
