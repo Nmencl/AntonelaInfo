@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Zadatak iz informatike</title>
+</head>
+<body>
+
+<h1> Kako napraviti html kod </h1>
+<p> Evo ovako.</p>
+
+</body>
+</html>
